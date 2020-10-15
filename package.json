@@ -1,0 +1,25 @@
+{
+  "name": "deployment-practise",
+  "version": "1.0.0",
+  "description": "just practise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naderakhgari/deployment-practise.git"
+  },
+  "author": "nader",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naderakhgari/deployment-practise/issues"
+  },
+  "homepage": "https://github.com/naderakhgari/deployment-practise#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.5"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0"
+  }
+}
